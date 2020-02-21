@@ -1,10 +1,10 @@
 # Blog-web
-this is an amazing blog with django
+this is an amazing blog using django
 
-#python
+# python
 this project need python 3.0.7  
 
-#in venv
+# in venv
 -django 3.0.3
 -crispy-forms
 -if u use mysql as database,install mysqlclient
@@ -12,7 +12,7 @@ this project need python 3.0.7
 -pip 20.0
 -tinymce
 
-#original template
+# original template
 https://bootstrapious.com/p/bootstrap...
 
 thanks!
